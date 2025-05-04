@@ -1,0 +1,18 @@
+[
+    {
+      "imageUrl": "https://raw.githubusercontent.com/ShiyanM/carparts/main/image.jpg",
+      "name": "Clutch Pads", 
+      "price": 18.99
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/ShiyanM/carparts/main/image3.jpg",
+      "name": "Turbor Charger", 
+      "price": 19.59
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/ShiyanM/carparts/main/image2.jpg",
+      "name": "LED Lights", 
+      "price": 15.99
+    }
+  ]
+  
